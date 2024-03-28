@@ -1,5 +1,7 @@
 # Camera Calibration
 
+**Note**: This project was done as a part of the course ENPM673 - Perception for Autonomous Robots in Spring 2023 at the University of Maryland, College Park.
+
 ## Project Overview
 This repository contains the code and documentation for 2 different pipelines for calibrating two different cameras, one using a Direct Linear Transform and the other using inbuilt OpenCV functions
 
